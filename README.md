@@ -4,7 +4,6 @@
 - 所属：愛媛大学大学院理工学研究科理工学専攻数理情報プログラム
 - 研究室：[自然言語処理研究室](https://sites.google.com/view/ehime-nlp/)
 - mail：manabe@ai.cs.ehime-u.ac.jp, manabe12311@gmail.com
-- 詳細: [URL](https://mana1231.github.io)
 
 ## 研究業績
 <!--
